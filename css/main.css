@@ -1,6 +1,6 @@
 @font-face {
-    font-family: "Celtic";
-    src: url(fonts/CELTG__.ttf);
+    font-family: 'Celtic';
+    src: url('../fonts/CELTG___.TTF');
 }
 
 header img {
@@ -8,15 +8,15 @@ header img {
 }
 
 h2 {
-    font-family: europa, sans-serif;
+    font-family: 'Celtic', sans-serif;
     font-style: normal;
     font-weight: 400;
     color: #6f0e1a;
 }
 
-nav {
+nav ul {
     list-style-type: none;
-    font-family: "Celtic";
+    font-family: europa, sans-serif;
 }
 
 .visuallyhidden {
