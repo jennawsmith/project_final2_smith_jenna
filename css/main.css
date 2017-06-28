@@ -1,6 +1,10 @@
 @font-face {
-    font-family: Celtic;
+    font-family: "Celtic";
     src: url(fonts/CELTG__.ttf);
+}
+
+header img {
+    max-width: 50%;
 }
 
 h2 {
@@ -8,4 +12,20 @@ h2 {
     font-style: normal;
     font-weight: 400;
     color: #6f0e1a;
+}
+
+nav {
+    list-style-type: none;
+    font-family: "Celtic";
+}
+
+.visuallyhidden {
+    position: absolute;
+    overflow: hidden;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    width: 1px;
+    margin: -1px;
+    padding: 0;
+    border: 0;
 }
