@@ -1,0 +1,11 @@
+@font-face {
+    font-family: Celtic;
+    src: url(fonts/CELTG__.ttf);
+}
+
+h2 {
+    font-family: europa, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    color: #6f0e1a;
+}
