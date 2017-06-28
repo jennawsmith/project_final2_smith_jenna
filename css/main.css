@@ -3,8 +3,10 @@
     src: url('../fonts/CELTG___.TTF');
 }
 
-header img {
+.image {
     max-width: 50%;
+    display: block;
+    margin: auto;
 }
 
 h2 {
@@ -22,6 +24,8 @@ nav {
 nav ul {
     list-style-type: none;
     font-family: europa, sans-serif;
+    font-size: 1.25em;
+
 }
 
 .visuallyhidden {
@@ -41,4 +45,9 @@ p {
     font-weight: 200;
     font-size: 0.9rem;
     line-height: 1.25rem;
+}
+
+.maincontainer {
+    width: 80%;
+    margin: 10%;
 }
