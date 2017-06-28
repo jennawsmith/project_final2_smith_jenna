@@ -14,6 +14,11 @@ h2 {
     color: #6f0e1a;
 }
 
+nav {
+    background-color: #1f391a;
+    color: white;
+}
+
 nav ul {
     list-style-type: none;
     font-family: europa, sans-serif;
