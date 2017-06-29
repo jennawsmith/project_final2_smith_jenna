@@ -67,3 +67,10 @@ p {
     opacity: 0.5;
     padding: 10px;
 }
+
+h3 {
+    font-family: europa, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.25rem;
+}
