@@ -122,6 +122,13 @@ button:hover {
     margin-bottom: 15px;
 }
 
+.link {
+    font-family: europa, sans-serif;
+    font-style: italic;
+    font-weight: 200;
+    color: #1f391a;
+}
+
 @media all and (min-width: 500px) {
     .image {
         width: 30%;
@@ -147,5 +154,15 @@ button:hover {
 
     nav ul {
         text-align: right;
+    }
+
+    #images {
+        text-align: center;
+    }
+
+    .images {
+        display: inline-block;
+        max-height: 130px;
+        width: auto;
     }
 }
