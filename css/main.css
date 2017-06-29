@@ -14,6 +14,7 @@ body {
     max-width: 50%;
     display: block;
     margin: auto;
+    padding: 10px;
 }
 
 header {
@@ -112,4 +113,11 @@ button:hover {
 
 .centerme {
     text-align: center;
+}
+
+.images {
+    width: 60%;
+    display: block;
+    margin: auto;
+    margin-bottom: 15px;
 }
