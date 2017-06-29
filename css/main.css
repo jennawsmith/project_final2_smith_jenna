@@ -121,3 +121,15 @@ button:hover {
     margin: auto;
     margin-bottom: 15px;
 }
+
+@media all and (min-width: 500px) {
+    .image {
+        width: 30%;
+    }
+
+    nav ul li {
+        display: inline-block;
+        padding: 10px;
+        font-size: 1.1rem;
+    }
+}
