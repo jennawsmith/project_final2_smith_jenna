@@ -133,3 +133,19 @@ button:hover {
         font-size: 1.1rem;
     }
 }
+
+@media all and (min-width: 768px) {
+    .image {
+        text-align: left;
+        display: inline-block;
+        width: 15%;
+    }
+
+    nav {
+        margin-top: -60px;
+    }
+
+    nav ul {
+        text-align: right;
+    }
+}
