@@ -1,9 +1,9 @@
 
 ### Links
 * [GitHub Link] (https://github.com/jennawsmith/project_final2_smith_jenna.git)
-* [WebHost Link]()
-* [w3 validator]()
-* [HTML5 Outliner]()
+* [WebHost Link](http://jennasclassroom.com/adv2_project_final2_smith_jenna/)
+* [w3 validator]https://validator.w3.org/nu/#textarea()
+* [HTML5 Outliner](https://gsnedders.html5.org/outliner/process.py)
 
 ### Resources
 
@@ -27,4 +27,6 @@ I reviewed the list of deductions for this project and in the syllabus.
 
 ### Comments
 
-Just wanted to make you aware because I know you'll see it, I did use a max-height on the images because I wanted them to all be the same height when they were aligned along the bottom, I set the width to auto so it wouldn't skew the photo. I typically wouldn't do this, but for the simple purposes of having a few example photos, I thought it looked better like that. 
+Just wanted to make you aware because I know you'll see it, I did use a max-height on the images because I wanted them to all be the same height when they were aligned along the bottom, I set the width to auto so it wouldn't skew the photo. I typically wouldn't do this, but for the simple purposes of having a few example photos, I thought it looked better like that.
+
+Again, I'm not sure if the validator and/or the outliner are the right URLs... 
