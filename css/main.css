@@ -3,6 +3,12 @@
     src: url('../fonts/CELTG___.TTF');
 }
 
+body {
+    background-image: url('../img/brick.jpg');
+    background-color: #b08a7a;
+
+}
+
 .image {
     max-width: 50%;
     display: block;
@@ -57,4 +63,7 @@ p {
 .maincontainer {
     width: 80%;
     margin: 10%;
+    background-color: white;
+    opacity: 0.5;
+    padding: 10px;
 }
